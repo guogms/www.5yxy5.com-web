@@ -1,0 +1,8 @@
+{
+  "name": "skip",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:batch": "node -e \"console.log('生产环境直接部署！！！'); process.exit(0)\""
+  }
+}
