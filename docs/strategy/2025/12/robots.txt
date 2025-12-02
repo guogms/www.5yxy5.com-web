@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://www.5yxy5.com/strategy/2025/12/sitemap.xml
